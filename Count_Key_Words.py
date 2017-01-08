@@ -1,3 +1,5 @@
+# I use this script to count key words in job descriptions. This helps me develop a better understanding of employers' needs.
+
 from string import punctuation
 
 def sort_items(x, y):
