@@ -13,3 +13,6 @@ for _ in itertools.repeat(None, 10):
     list_.append(random.choice(string))
     
 list_
+
+#result:
+['c', 'a', 'b', 'c', 'c', 'a', 'b', 'b', 'c', 'a']
