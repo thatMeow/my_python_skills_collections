@@ -2,9 +2,9 @@ import itertools
 
 for _ in itertools.repeat(None, N):
     do_something()
-    
-    
+
 # e.g. pick a random letter from a string then insert into a list
+# "_" is just a random character here
 
 string = 'abc'
 import itertools
