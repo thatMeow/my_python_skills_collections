@@ -11,7 +11,8 @@ sheet="Sheet1";
 
 run;
 
-data out.sas_output_dataset(rename=(vintage2=vintage));
+data out.sas_output_dataset(rename=(vintage2=vintage)); /* vintage is the column that needs to be formatted. vintage2 is a 
+temporary column*/
 format vintage2 date9.;
 
 set out.sas_output_dataset;
