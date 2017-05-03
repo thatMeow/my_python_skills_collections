@@ -13,7 +13,7 @@ run;
 
 data out.sas_output_dataset(rename=(vintage2=vintage)); /* vintage is the column that needs to be formatted. vintage2 is a 
 temporary column*/
-format vintage2 date9.;
+format vintage2 date9.; /*date9. is the format DDMMMYYYY. e.g.01JAN2000*/
 
 set out.sas_output_dataset;
 
