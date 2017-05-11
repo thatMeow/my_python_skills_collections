@@ -1,6 +1,6 @@
 # All kinds of python skills!!!
 
-To name a github directory:
+To rename a github directory:
 
 1. git clone + link + temp_folder_name (optional)
 2. mv old_name new_name
