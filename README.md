@@ -9,6 +9,7 @@
 5. git push (this step will push the updated folder names back to the web, no need to use link at this step)
 
 **To indent all rows with four spaces:**
+
 http://wittman.org/projects/stackoverflowindentfourspaces/
 
 
