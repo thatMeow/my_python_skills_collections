@@ -8,6 +8,6 @@
 
 >>> x = {}
 >>> for tup in aaa:
->>>     x.setdefault(tup[0], []).append(tup[1:])
+>>>     x.setdefault(tup[0], []).append(tup[1])
 
-{'a': [(1,), ('zzz',)], 'b': [(2,)], 'c': [(3,)]}
+{'a': [1, 'zzz'], 'b': [2], 'c': [3]}
