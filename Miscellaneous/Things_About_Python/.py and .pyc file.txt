@@ -1,12 +1,16 @@
 https://www.quora.com/What-are-Python-pyc-files-and-how-are-they-used
 
-They contain Python bytecode. Precisely when they're created and updated is IDE/interpreter-dependent (please correct me if I'm wrong here).
+They contain Python bytecode. Precisely when they're created and updated is IDE/interpreter-dependent 
+(please correct me if I'm wrong here).
 
-Since Python has to be converted to bytecode before it can be interpreted, keeping .pyc files around can help speed up execution, since you don't have to recompile. If there's a .pyc file around, there should be a .py file around with the same name.
+Since Python has to be converted to bytecode before it can be interpreted, keeping .pyc files around 
+can help speed up execution, since you don't have to recompile. If there's a .pyc file around, there 
+should be a .py file around with the same name.
 
 Here are some more details:
 http://www.network-theory.co.uk/...
 
 You can also force their creation to speed up execution (see the link for details).
 
-Fun fact: You should be able to ship only the .pyc files in your module if you want lightweight/basic obfuscation in your shipped application.
+Fun fact: You should be able to ship only the .pyc files in your module if you want lightweight/basic 
+obfuscation in your shipped application.
