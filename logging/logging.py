@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: fiq831
+
 """
 import logging
 
