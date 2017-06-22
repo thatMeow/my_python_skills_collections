@@ -14,7 +14,7 @@ class send_email(object):
         self.cc = cc if cc is not None else list()
         self.bcc = bcc if bcc is not None else list()
         self.attachment = list()
-        self.server = smtplib.SMTP('server name here')
+        self.server = smtplib.SMTP('# server name here')
         self.mailtype = mailtype
 
     def sendmail(self):
