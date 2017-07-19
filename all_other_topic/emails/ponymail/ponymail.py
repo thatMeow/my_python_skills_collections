@@ -14,7 +14,7 @@ class ponymail(object):
         self.cc = cc if cc is not None else list()
         self.bcc = bcc if bcc is not None else list()
         self.attachment = list()
-        self.server = smtplib.SMTP('ponyex.capitalone.com')
+        self.server = smtplib.SMTP('xxxx')
         self.mailtype = mailtype
 
     def sendmail(self):
