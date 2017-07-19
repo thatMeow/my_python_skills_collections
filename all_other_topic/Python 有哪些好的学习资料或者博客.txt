@@ -1,3 +1,5 @@
+https://www.zhihu.com/question/34907211
+
 推荐Full Stack Python 有各种python资源汇总，从基础入门到各种框架web应用开发和部署，再到高级的ORM、Docker都有。
 以下是Full Stack Python 上总结的一些教程，我拙劣的翻译了以下，并调整（调整顺序并删了部分内容）了一下：
 
