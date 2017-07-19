@@ -1,0 +1,82 @@
+推荐Full Stack Python 有各种python资源汇总，从基础入门到各种框架web应用开发和部署，再到高级的ORM、Docker都有。
+以下是Full Stack Python 上总结的一些教程，我拙劣的翻译了以下，并调整（调整顺序并删了部分内容）了一下：
+
+1、无开发经验，初学python如果你不会其他语言，python是你的第一门语言：A Byte of Python （简明python教程，这个有中文版简明 Python 教程）
+是非常好的入门教程。Learn Python the Hard Way （Zed Shaw的免费教程，个人强烈推荐）Python, Django and Flask教程： 
+Real Python （收费，需购买）short 5 minute video 解释了为什么你的出发点应该是要完成什么项目，或者解决什么问题，
+而不是为了学一门语言而去学一门语言。Dive into Python 3 是一本开源的python教程，提供HTML和PDF版。Code Academy 有一个为纯新手准备的 
+Python track 。Introduction to Programming with Python 介绍了基本语法和控制结构等，提供了大量代码示例。
+O'Reilly 的书 Think Python: How to Think Like a Computer Scientist 是非常好的入门教材。Python Practice Book 是一本python练习的书，
+帮你掌握python基本语法。想通过做实际项目来学编程？看看这个 this list of 5 programming project for Python beginners
+（5个适合python初学者的编程项目）。Reddit的创造者之一写了一个教程，如何用python构建一个博客网站（use Python to build a blog.），
+使非常好的web编程入门。The fullstack python的作者写了一篇关于如何学习python的文章learning Python 。
+
+2、有开发经验 ，初学PythonLearn Python in y minutes ，让你在几分钟内快速上手，有个大概了解。Python for you and me ， 
+python的语法，语言的主要结构等，还包含来Flask Web App的教程。The Hitchhiker’s Guide to PythonHow to Develop Quality Python Code ，
+如何开发高质量的python代码
+
+3、进阶The Python Ecosystem: An Introduction ， 关于python生态系统，虚拟机、python包管理器pip、
+虚拟环境virtualenv、还有很多进阶主题The Python Subreddit ，就是python的reddit节点（相当于中国的贴吧），是一个活跃的社区，可以交流讨论，
+解决问题等。Good to Great Python Reads ，收集进阶和高级python文章，讲了很多细微差异和python语言本身的细节。博客 Free Python Tips ，
+有很多python和python生态系统的文章。Python Books ，有一些免费的Python, Django, 数据分析等方面的书。Python IAQ: Infrequently Asked 
+Questions ，关于python 经常问到的问题。
+
+4、视频，屏幕录像，演示文稿等一些技术交流会议的视频录像： best Python videos
+
+5、python的包awesome-python ，收集了python各种非常好用非常酷的包，确实非常awesome，让作者相见恨晚（ I wish I had this page when 
+I was just getting started）。easy-python
+
+6、 播客（Podcasts）Talk Python to Me ， 关注使用python的人们和组织，
+每一期都会邀请一些开发者谈谈他们的工作等。Podcast.__init__ ，关于python和让python更牛B的人们。
+
+7、新闻资讯（可订阅）Python Weekly ， 
+最新的python文章、视频、项目、资讯 。PyCoder's Weekly ，和python weekly类似。
+
+Import Python以下是引用的原文：New to programming If 
+you're learning your first programming language these books were written with you in mind. Developers learning Python 
+as a second or later language should skip down to the next section for "experienced developers".To get an introduction 
+to Python, Django and Flask at the same time, consider purchasing the Real Python course by Fletcher, Michael and Jeremy.
+This short 5 minute video explains why it's better to think of projects you'd like to build and problems you want to solve 
+with programming. Start working on those projects and problems rather than jumping into a specific language that's 
+recommended to you by a friend.CS for All is an open book by professors at Harvey Mudd College which teaches the 
+fundamentals of computer science using Python. It's an accessible read and perfect for programming beginners.If you've 
+never programmed before check out the Getting Started page on Learn To Code with Me by Laurence Bradford. She's done an 
+incredible job of breaking down the steps beginners should take when they're uncertain about where to begin.Learn Python the 
+Hard Way is a free book by Zed Shaw.Dive into Python 3 is an open source book provided under the Creative Commons license 
+and available in HTML or PDF form.While not Python-specific, Mozilla put together a Learning the Web tutorial for beginners 
+and intermediate web users who want to build websites. It's worth a look from a general web development perspective.A Byte 
+of Python is a beginner's tutorial for the Python language.Code Academy has a Python track for people completely new to 
+programming.Introduction to Programming with Python goes over the basic syntax and control structures in Python. 
+The free book has numerous code examples to go along with each topic.Google put together a great compilation of materials 
+and subjects you should read and learn from if you want to be a professional programmer. Those resources are useful not 
+only for Python beginners but any developer who wants to have a strong professional career in software.The O'Reilly book 
+Think Python: How to Think Like a Computer Scientist is available in HTML form for free on the web.Python Practice Book 
+is a book of Python exercises to help you learn the basic language syntax.Looking for ideas about what projects to use to 
+learn to code? Check out this list of 5 programming project for Python beginners.There's a Udacity course by one of the 
+creators of Reddit that shows how to use Python to build a blog. It's a great introduction to web development concepts 
+through coding.I wrote a quick blog post on learning Python that non-technical folks trying to learn to program may find 
+useful.Experienced developers new to PythonLearn Python in y minutes provides a whirlwind tour of the Python language. 
+The guide is especially useful if you're coming in with previous software development experience and want to quickly grasp 
+how the language is structured.Python for you and me is an approachable book with sections for Python syntax and the 
+major language constructs. The book also contains a short guide at the end to get programmers to write their first Flask 
+web application.Kenneth Reitz's The Hitchhiker’s Guide to Python contains a wealth of information both on the Python 
+programming language and the community.How to Develop Quality Python Code is a good read to begin learning about 
+development environments, application dependencies and project structure.Beyond the basicsThe Python Ecosystem: 
+An Introduction provides context for virtual machines, Python packaging, pip, virutalenv and many other topics after 
+learning the basic Python syntax.The Python Subreddit rolls up great Python links and has an active community ready 
+to answer questions from beginners and advanced Python developers alike.Good to Great Python Reads is a collection 
+of intermediate and advanced Python articles around the web focused on nuances and details of the Python language 
+itself.The blog Free Python Tips provides posts on Python topics as well as news for the Python ecosystem.Python Books 
+is a collection of freely available books on Python, Django, and data analysis.Python IAQ: Infrequently Asked Questions 
+is a list of quirky queries on rare Python features and why certain syntax was or was not built into the language.Videos, 
+screencasts and presentationsVideos from conferences and meetups along with screencasts are listed on the best Python 
+videos page.Curated Python packages listsawesome-python is an incredible list of Python frameworks, libraries and software. 
+I wish I had this page when I was just getting started.easy-python is like awesome-python although instead of just a 
+Git repository this site is in the Read the Docs format.PodcastsTalk Python to Me focuses on the people and organizations 
+coding on Python. Each episode features a different guest interviewee to talk about his or her work.Podcast.__init__ is 
+another podcast on "about Python and the people who make it great".NewslettersPython Weekly is a free weekly roundup of the 
+latest Python articles, videos, projects and upcoming events.PyCoder's Weekly is another great free weekly email newsletter 
+similar to Python Weekly. The best resources are generally covered in both newsletters but they often cover different 
+articles and projects from around the web.Import Python is a newer newsletter than Python Weekly and PyCoder's Weekly. 
+So far I've found this newsletter often pulls from different sources than the other two. It's well worth subscribing to 
+all three so you don't miss anything.
