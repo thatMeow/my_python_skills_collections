@@ -1,1 +1,2 @@
 http://visualgit.readthedocs.io/en/latest/pages/naming_convention.html
+https://stackoverflow.com/questions/8689964/why-do-some-functions-have-underscores-before-and-after-the-function-name
