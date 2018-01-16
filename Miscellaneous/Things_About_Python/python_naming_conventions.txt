@@ -1,0 +1,1 @@
+http://visualgit.readthedocs.io/en/latest/pages/naming_convention.html
