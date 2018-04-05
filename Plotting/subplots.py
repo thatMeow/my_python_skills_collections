@@ -16,3 +16,10 @@ axarr[2, 1].set_title('MasVnrArea')
 f.text(-0.01, 0.5, 'Sale Price', va='center', rotation='vertical', fontsize = 12)
 plt.tight_layout()
 plt.show()
+
+
+
+seaborn
+fig, ax = plt.subplots(2, 1, figsize = (10, 8))
+sns.boxplot(x = 'BldgType', y = 'SalePrice', data = df, ax = ax[0])
+sns.boxplot(x = 'HouseStyle', y = 'SalePrice', data = df, ax = ax[1])
