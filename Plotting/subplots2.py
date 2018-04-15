@@ -1,0 +1,5 @@
+fig, ax = plt.subplots(2, 2, figsize = (10, 8))
+sns.boxplot('BsmtCond', 'SalePrice', data = df, ax = ax[0, 0])
+sns.boxplot('BsmtQual', 'SalePrice', data = df, ax = ax[0, 1])
+sns.boxplot('BsmtExposure', 'SalePrice', data = df, ax = ax[1, 0])
+sns.boxplot('BsmtFinType1', 'SalePrice', data = df, ax = ax[1, 1])
