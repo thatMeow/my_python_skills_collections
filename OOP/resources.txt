@@ -1,0 +1,1 @@
+https://python-textbok.readthedocs.io/en/1.0/Python_Basics.html
