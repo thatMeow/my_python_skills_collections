@@ -8,7 +8,7 @@ corr = temp3.corr()
 
 # Generate a mask for the upper triangle
 mask = np.zeros_like(corr, dtype=np.bool)
-mask[np.triu_indices_from(mask)] = True
+mask[np.triu_indices_from(mask)] = True # this is the step that cuts half of the heatmap off
 
 # Set up the matplotlib figure
 f, ax = plt.subplots(figsize=(15, 13))
