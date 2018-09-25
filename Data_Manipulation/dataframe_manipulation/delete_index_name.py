@@ -1,0 +1,1 @@
+del train.index.name
