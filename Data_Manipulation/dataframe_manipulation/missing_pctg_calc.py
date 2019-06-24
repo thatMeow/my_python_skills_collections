@@ -23,5 +23,5 @@ missing_data.head(20)
 #missing data
 total = df_train.isnull().sum().sort_values(ascending=False)
 percent = (df_train.isnull().sum()/df_train.isnull().count()).sort_values(ascending=False)
-missing_data = pd.concat([total, percent], axis=1, keys=['Total', 'Percent'])
+missing_data = pd.concat([total, percent], axis=1, keys=['Total_Missing', 'Percent'])
 missing_data.head(20)
