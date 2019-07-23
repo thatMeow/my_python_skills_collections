@@ -2,5 +2,5 @@
 
 def convert_to_dummies(df, column):
 
-    dummies = pd.get_dummies(df[column]).rename(columns=lambda x: column + str(x))
+    dummies = pd.get_dummies(df[column]).rename(columns=lambda x: column + '_' + str(x))
     return pd.concat([df, dummies], axis=1).drop(column, axis=1)
