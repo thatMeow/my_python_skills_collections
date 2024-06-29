@@ -14,7 +14,7 @@ def redshift_connect():
         pwd = logline.split(',')[1].rstrip()  
   
   
-        conn_redshift=psycopg2.connect(dbname= 'db', host='pbcdwp.cloud.capitalone.com',  
+        conn_redshift=psycopg2.connect(dbname= 'db', host='pbcdwp.cloud.xxx.com',  
         port= 5439, user= usr, password= pwd)  
         return conn_redshift  
     except IOError as e:  
